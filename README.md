@@ -22,4 +22,4 @@
 
 <!-- Snake animation -->
 ---
-![snake gif](https://github.com/aayush992/aayush992/blob/output/github-snake-dark.svg)  
+![snake gif](https://github.com/aayush992/aayush992/github-snake-dark.svg)  
