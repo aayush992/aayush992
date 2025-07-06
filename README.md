@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-saini-193921259/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushsaini915@gmail.com)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushsaini915@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushsaini915@gmail.com)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushsaini915@gmail.com) 
 
 <!-- Profile view counter -->
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aayush992)
