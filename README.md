@@ -2,8 +2,8 @@
 
 
 ## 🌐 Socials:
+[![Portfolio]( https://img.shields.io/badge/🌎%20Portfolio%20-8A2BE2)](https://portfolio-aayush992.vercel.app/)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-saini-193921259/)
-[![Portfolio](https://img.shields.io/badge/Email-D14836?logo=Portfolio&logoColor=white)](mailto:aayushsaini915@gmail.com) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushsaini915@gmail.com) 
 
 <!-- Profile view counter -->
